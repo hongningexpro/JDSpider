@@ -1,0 +1,6 @@
+[2018-10-28 06:56:05]:
+try{ jsonpCBKF({"couponid":"","errmsg":"您还未登录","ret":2}
+);}catch(e){}
+[2018-10-28 06:56:15]:
+try{ jsonpCBKF({"couponid":"","errmsg":"您还未登录","ret":2}
+);}catch(e){}
